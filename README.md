@@ -36,11 +36,10 @@ fitur dalam game.html
    berdasarkan jumlah pembelian. Multiplier awal adalah 1, maka pada multiplier 2, pendapatan dasar setiap klik akan dikali 2, dan seterusnya.
    Harga pembelian awal upgrade = 500.000 dan selanjutnya bertambah 2 kali lipat
 
-   About us berisikan d
+   About us berisikan data diri kelompok.
 
    FITUR TAMBAHAN :
    - Terdapat lagu di background website
    - Background berupa gif
-   - kita keren :>
    - link instagram bisa ditekan dan langsung membuka link
    
