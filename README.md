@@ -1,2 +1,3 @@
 # Kelompok-8-IF231-C
-Nama kelompok 8 : Gavin Prasetya, Steven Lie,Christian Tantheo, Sean Marcello Talaar 
+Nama kelompok 8 : Gavin Prasetya, Steven Lie,Christian Tantheo, Sean Marcello Talaar.
+first time using github.
